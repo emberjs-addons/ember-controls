@@ -1,0 +1,1 @@
+require("ember-controls/pagination_button");
